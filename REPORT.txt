@@ -1,0 +1,297 @@
+
+AGE
+	Mean score = 39.32
+
+WARM-UP: STATEMENTS ABOUT TV ADS  Percentage
+	There are too many ads on TV = 46.7%
+	Some the ads are better than the TV programmes = 14.0%
+	I’ve seen some really clever ads recently = 28.0%
+	Ads are often misleading = 18.0%
+	There are some ads that I remember for a long time = 44.0%
+
+ENJOYMENT	Percentage
+	+5 - enjoy watching it a lot = 20.7%
+	+4 - quite enjoy/enjoy a little watching it = 30.0%
+	+3 - won't mind watching it = 38.0%
+	+2 - won't enjoy watching it much = 10.0%
+	+1 - won't enjoy watching it at all = 1.3%
+
+ENJOYMENT	Mean score
+	Mean Score = 3.6
+
+ACTIVE INVOLVEMENT Percentage
+	Pleasant = 54.0%
+	Interesting = 27.3%
+	Boring = 14.7%
+	Irritating = 4.0%
+	Soothing = 45.3%
+	Distinctive = 31.3%
+	Dull = 21.3%
+	Unpleasant = 2.0%
+	Gentle = 56.7%
+	Involving = 31.3%
+	Weak = 9.3%
+	Disturbing = 2.7%
+	Passive Positive = 52.0%
+	Active Positive = 30.0%
+	Passive Negative = 15.1%
+	Active Negative = 2.9%
+	Active = 32.9%
+	Passive = 67.1%
+	Positive = 82.0%
+	Negative = 18.0%
+
+ACTIVE INVOLVEMENT	Mean score
+	Mean score = 3.3
+
+BRANDING	Percentage
+	+5 - couldn't fail to/help but remember the ad was for... = 25.3%
+	+4 - quite/somewhat good at making you remember it is for...  = 54.7%
+	+3 - not all that good at/just OK at making you remember it is for... = 4.0%
+	+2 - could have been an ad for any brand of... = 13.3%
+	+1 - could have been an ad for almost anything... = 2.7%
+
+BRANDING	Mean score
+	Mean Score = 3.9
+
+USERSHIP	Percentage
+	+6 Use most often = 14.7%
+	+5 Use it regularly = 35.3%
+	+4 Use from time to time = 33.3%
+	+3 Have tried in the past = 14.7%
+	+2 Heard of but not tried = 1.3%
+	+1 Never heard of until today = 0.7%
+
+NUMBER OF BRAND USAGE    Percentage
+	Brand Usage = 50.0%
+
+PERSUASION AMONG USERS	Percentage
+	+4 = 32.0%
+	+3 = 50.7%
+	+2 = 17.3%
+	+1 = 0.0%
+
+PERSUASION AMONG USERS	Mean score
+	Mean Score = 3.1
+
+NUMBER OF USERS (RAW COUNT)	Other
+	Other = 75
+
+NUMBER OF USERS (PERCENTAGE)	Percentage
+	Users = 50.0%
+
+PERSUASION: USE MOST OFTEN	Percentage
+	+4 - strongly encourages me to go on using it = 68.2%
+	+3 - encourages me to go on using it = 31.8%
+	+2 - makes no difference to whether I will go on using it = 0.0%
+	+1 - puts me off/makes me less likely to continue using it = 0.0%
+
+PERSUASION: USE MOST OFTEN	Mean score
+	Mean score = 3.7
+
+USE MOST OFTEN (RAW COUNT)	Other
+	Raw count  = 22
+
+USE MOST OFTEN (PERCENTAGE)	Percentage
+	Sample percentage = 14.7%
+
+PERSUASION: USE REGULARLY	Percentage
+	+4 - strongly encourages me to go on using it = 17.0%
+	+3 - encourages me to go on using it = 58.5%
+	+2 - makes no difference to whether I will go on using it = 24.5%
+	+1 - puts me off/makes me less likely to continue using it = 0.0%
+
+PERSUASION: USE REGULARLY	Mean score
+	Mean score = 2.9
+
+USE REGULARLY (RAW COUNT)	Other
+	Raw count  = 53
+
+USE REGULARLY (PERCENTAGE)	Percentage
+	Sample percentage = 35.3%
+
+PERSUASION AMONG TRIALLISTS	Percentage
+	+4 = 12.5%
+	+3 = 43.1%
+	+2 = 44.4%
+	+1 = 0.0%
+
+PERSUASION AMONG TRIALLISTS	Mean score
+	Mean Score = 2.7
+
+NUMBER OF TRIALLISTS (RAW COUNT)	Other
+	Other = 72
+
+NUMBER OF TRIALLISTS (PERCENTAGE)	Percentage
+	Triallists = 48.0%
+
+PERSUASION: USE FROM TIME TO TIME	Percentage
+	+4 - strongly encourages me to go on using it = 16.0%
+	+3 - encourages me to go on using it = 48.0%
+	+2 - makes no difference to whether I will go on using it = 36.0%
+	+1 - puts me off/makes me less likely to continue using it = 0.0%
+
+PERSUASION: USE REGULARLY	Mean score
+	Mean score = 2.8
+
+USE FROM TIME TO TIME (RAW COUNT)	Other
+	Raw count  = 50
+
+USE FROM TIME TO TIME (PERCENTAGE)	Percentage
+	Sample percentage = 33.3%
+
+PERSUASION: TRIED IN THE PAST	Percentage
+	+4 - strongly encourages me to go on using it = 4.5%
+	+3 - encourages me to go on using it = 31.8%
+	+2 - makes no difference to whether I will go on using it = 63.6%
+	+1 - puts me off/makes me less likely to continue using it = 0.0%
+
+PERSUASION: TRIED IN THE PAST	Mean score
+	Mean score = 2.4
+
+TRIED IN THE PAST (RAW COUNT)	Other
+	Raw count  = 22
+
+TRIED IN THE PAST (PERCENTAGE)	Percentage
+	Sample percentage = 14.7%
+
+PERSUASION AMONG NON USERS	Percentage
+	+4 = 33.3%
+	+3 = 33.3%
+	+2 = 33.3%
+	+1 = 0.0%
+
+PERSUASION AMONG NON USERS	Mean score
+	Mean Score = 3.0
+
+NUMBER OF NON USERS (RAW COUNT)	Other
+	Other = 3
+
+NUMBER OF NON USERS (PERCENTAGE)	Percentage
+	Triallists = 2.0%
+
+PERSUASION: HEARD OF BUT NEVER TRIED	Percentage
+	+4 - strongly encourages me to go on using it = 0.0%
+	+3 - encourages me to go on using it = 50.0%
+	+2 - makes no difference to whether I will go on using it = 50.0%
+	+1 - puts me off/makes me less likely to continue using it = 0.0%
+
+PERSUASION: HEARD OF BUT NEVER TRIED	Mean score
+	Mean score = 2.5
+
+HEARD OF BUT NEVER TRIED (RAW COUNT)	Other
+	Raw count  = 2
+
+HEARD OF BUT NEVER TRIED (PERCENTAGE)	Percentage
+	Sample percentage = 1.3%
+
+PERSUASION: NEVER HEARD OF	Percentage
+	+4 - strongly encourages me to go on using it = 100.0%
+	+3 - encourages me to go on using it = 0.0%
+	+2 - makes no difference to whether I will go on using it = 0.0%
+	+1 - puts me off/makes me less likely to continue using it = 0.0%
+
+PERSUASION: NEVER HEARD OF	Mean score
+	Mean score = 4.0
+
+NEVER HEARD OF (RAW COUNT)	Other
+	Raw count  = 1
+
+NEVER HEARD OF (PERCENTAGE)	Percentage
+	Sample percentage = 0.7%
+
+BRAND DIFFERENTIATION	Percentage
+	+5 - Agree strongly = 31.3%
+	+4 - Agree slightly = 30.0%
+	+3 - Neither agree nor disagree = 29.3%
+	+2 - Disagree slightly = 5.3%
+	+1 - Disagree strongly = 4.0%
+
+BRAND DIFFERENTIATION	Mean score
+	Mean Score = 3.8
+
+Affinity	Percentage
+	91-100 = 32.7%
+	81-90 = 16.0%
+	71-80 = 14.7%
+	61-70 = 14.0%
+	51-60 = 12.7%
+	41-50 = 7.3%
+	31-40 = 1.3%
+	21-30 = 1.3%
+	11-20 = 0.0%
+	1-10 = 0.0%
+
+Affinity	Mean score
+	Mean score = 77.2
+
+MESSAGE CHECK - 1	Percentage
+	Very likely to stick in mind = 48.0%
+	Quite likely to stick in mind = 40.7%
+	Probably wouldn't to stick in mind = 10.7%
+	Definitely wouldn't to stick in mind = 0.7%
+
+MESSAGE CHECK - 1	Mean score
+	Mean Score = 3.4
+
+MESSAGE CHECK - 2	Percentage
+	Very likely to stick in mind = 45.3%
+	Quite likely to stick in mind = 38.7%
+	Probably wouldn't to stick in mind = 14.0%
+	Definitely wouldn't to stick in mind = 2.0%
+
+MESSAGE CHECK - 2	Mean score
+	Mean Score = 3.3
+
+MESSAGE CHECK - 3	Percentage
+	Very likely to stick in mind = 38.0%
+	Quite likely to stick in mind = 45.3%
+	Probably wouldn't to stick in mind = 13.3%
+	Definitely wouldn't to stick in mind = 3.3%
+
+MESSAGE CHECK - 3	Mean score
+	Mean Score = 3.2
+
+GENDER EQUALITY MEASUREMENT - FEMALE - Positive image of the female character/s that sets a good example for others	Percentage
+	Positive = 43.3%
+	+5 = 26.0%
+	+4 = 17.3%
+	+3 = 44.7%
+	+2 = 6.7%
+	+1 = 5.3%
+	Negative = 12.0%
+
+GENDER EQUALITY MEASUREMENT - FEMALE - Positive image of the female character/s that sets a good example for others	Mean score
+	Mean Score = 3.5
+
+GENDER EQUALITY MEASUREMENT - MALE - Positive image of the female character/s that sets a good example for others	Percentage
+	Positive = 45.3%
+	+5 = 28.0%
+	+4 = 17.3%
+	+3 = 42.0%
+	+2 = 7.3%
+	+1 = 5.3%
+	Negative = 12.6%
+
+GENDER EQUALITY MEASUREMENT - MALE - Positive image of the female character/s that sets a good example for others	Mean score
+	Mean Score = 3.6
+
+INCLUSION - The way people are presented represents a modern and progressive view of society	Percentage
+	+5 Strongly agree = 32.0%
+	+4 Somewhat agree = 25.3%
+	+3 Neither agree nor disagree = 31.3%
+	+2 Somewhat disagree = 6.0%
+	+1 Strongly disagree = 5.3%
+
+INCLUSION - The way people are presented represents a modern and progressive view of society	Mean score
+	Mean Score = 3.7
+
+DEVICE TYPE USED	Percentage
+	PC/laptop/netbook = 39.3%
+	Large tablet = 2.7%
+	Medium tablet = 0.0%
+	Small tablet = 44.0%
+	Smart phone touch = 14.0%
+	Large Feature phone = 0.0%
+	Small Feature phone = 0.0%
+	Other = 0.0%
